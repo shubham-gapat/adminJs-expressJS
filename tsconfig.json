@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "ES6",
+    "module": "Preserve",
+    "moduleResolution": "Bundler",
+    "lib": ["ES6"],
+    "outDir": "adminJs-expressJS/dist",
+    "rootDir": "adminJs-expressJS/src",
+    "strict": true,
+    "strictPropertyInitialization": false,
+  }
+}
